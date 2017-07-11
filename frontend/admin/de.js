@@ -2,6 +2,10 @@ export default {
   'de-DE': {
     'admin.meters.productSerialnumber': 'Seriennummer:',
     'admin.meters.manufacturerName': 'Herstellername:',
+    'admin.meters.easy_meter': 'EasyMeter',
+    'admin.meters.amperix': 'Amperix',
+    'admin.meters.ferraris': 'Ferraris',
+    'admin.meters.other': 'Sonstiges',
     'admin.meters.productName': 'Produktname:',
     'admin.meters.ownership': 'Besitzstatus',
     'admin.meters.BUZZN_SYSTEMS': 'Buzzn Systems',
@@ -56,6 +60,8 @@ export default {
     'admin.meters.edifactDataLogging': 'Datenerfassung',
     'admin.meters.Z04': 'analog',
     'admin.meters.Z05': 'elektronisch',
-    'admin.meters.converterConstant': '40',
+    'admin.meters.converterConstant': 'Wandlerfaktor',
+    'admin.meters.headerMeterData': 'Zählpunkt',
+    'admin.meters.headerClassification': 'Klassifizierung',
   },
 };
