@@ -90,7 +90,7 @@ export default {
     'admin.registers.observerMinThreshold': 'Minimum threshold',
     'admin.registers.observerMaxThreshold': 'Maximum threshold',
     'admin.registers.observerOfflineMonitoring': 'Offline alert',
-    'admin.registers.last_observed': 'Last observation on',
+    'admin.registers.lastObserved': 'Last observation on',
     'admin.registers.headerRegisterData': 'Register Data',
     'admin.registers.headerObservation': 'Observation',
     'admin.registers.navPillRegisterData': 'Register Data',
