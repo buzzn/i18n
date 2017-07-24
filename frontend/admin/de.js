@@ -94,5 +94,6 @@ export default {
     'admin.registers.headerRegisterData': 'Zählwerk',
     'admin.registers.headerObservation': 'Überwachung',
     'admin.registers.navPillRegisterData': 'Zählwerk',
+    'admin.registers.navPillFormula': 'Formel',
   },
 };
