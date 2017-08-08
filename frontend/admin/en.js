@@ -6,6 +6,7 @@ import tariffs from './en/tariffs';
 import payments from './en/payments';
 import organizations from './en/organizations';
 import addresses from './en/addresses';
+import formulas from './en/formulas';
 
 export default {
   ...meters,
@@ -16,4 +17,5 @@ export default {
   ...payments,
   ...organizations,
   ...addresses,
+  ...formulas,
 };
