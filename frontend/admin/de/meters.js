@@ -1,4 +1,5 @@
 export default {
+  'admin.meters.reference': 'Vertragsreferenz',
   'admin.meters.productSerialnumber': 'Seriennummer',
   'admin.meters.manufacturerName': 'Herstellername',
   'admin.meters.easy_meter': 'EasyMeter',
