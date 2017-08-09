@@ -7,6 +7,7 @@ import payments from './de/payments';
 import organizations from './de/organizations';
 import addresses from './de/addresses';
 import formulas from './de/formulas';
+import bankAccounts from './de/bank_accounts';
 
 export default {
   ...meters,
@@ -18,4 +19,5 @@ export default {
   ...organizations,
   ...addresses,
   ...formulas,
+  ...bankAccounts,
 };

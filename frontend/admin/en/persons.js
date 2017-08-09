@@ -8,4 +8,13 @@ export default {
   'admin.persons.firstName': 'First name',
   'admin.persons.lastName': 'Last name',
   'admin.persons.mandateReference': 'SEPA reference',
+  'admin.persons.F': 'Mrs.',
+  'admin.persons.M': 'Mr.',
+  'admin.persons.Dr.': 'Dr.',
+  'admin.persons.Prof.': 'Prof.',
+  'admin.persons.Prof.Dr': 'Prof.Dr.',
+  'admin.persons.headerMyProfile': 'My Profile',
+  'admin.persons.navPillContactInfo': 'Contact Info',
+  'admin.persons.navPillAccount': 'Account',
+  'admin.persons.navPillBank': 'Bank Accounts',
 };
