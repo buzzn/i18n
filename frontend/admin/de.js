@@ -8,6 +8,7 @@ import organizations from './de/organizations';
 import addresses from './de/addresses';
 import formulas from './de/formulas';
 import bankAccounts from './de/bank_accounts';
+import types from './de/types';
 
 export default {
   ...meters,
@@ -20,4 +21,5 @@ export default {
   ...addresses,
   ...formulas,
   ...bankAccounts,
+  ...types,
 };
