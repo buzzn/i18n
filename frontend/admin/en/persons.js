@@ -14,6 +14,8 @@ export default {
   'admin.persons.Prof.': 'Prof.',
   'admin.persons.Prof.Dr': 'Prof.Dr.',
   'admin.persons.headerMyProfile': 'My Profile',
+  'admin.persons.headerBankAccounts': 'Bank accounts',
+  'admin.persons.descriptionBankAccounts': 'Bank accounts for billing',
   'admin.persons.navPillContactInfo': 'Contact Info',
   'admin.persons.navPillAccount': 'Account',
   'admin.persons.navPillBank': 'Bank Accounts',
