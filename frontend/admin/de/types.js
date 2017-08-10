@@ -1,5 +1,5 @@
 export default {
-  'admin.types.meter': 'Zähler',
+  'admin.types.meter': 'Zählpunkt',
   'admin.types.register': 'Zählwerk',
   'admin.types.powertaker': 'Stromnehmer',
   'admin.types.contract': 'Vertrag',
