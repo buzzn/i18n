@@ -6,4 +6,5 @@ export default {
   'admin.types.contracting party': 'Contracting Party',
   'admin.types.tariff': 'Tariff',
   'admin.types.formula': 'Formula',
+  'admin.types.reading': 'Reading',
 };
