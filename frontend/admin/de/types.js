@@ -1,10 +1,10 @@
 export default {
-  'admin.types.meter': 'Meter',
-  'admin.types.register': 'Register',
-  'admin.types.powertaker': 'Powertaker',
-  'admin.types.contract': 'Contract',
-  'admin.types.contracting party': 'Contracting Party',
-  'admin.types.tariff': 'Tariff',
-  'admin.types.formula': 'Formula',
-  'admin.types.reading': 'Reading',
+  'admin.types.meter': 'Zählpunkt',
+  'admin.types.register': 'Zählwerk',
+  'admin.types.powertaker': 'Stromnehmer',
+  'admin.types.contract': 'Vertrag',
+  'admin.types.contracting party': 'Vertragspartei',
+  'admin.types.tariff': 'Tarif',
+  'admin.types.formula': 'Formel',
+  'admin.types.reading': 'Zählerstand',
 };
