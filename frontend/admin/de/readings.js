@@ -1,9 +1,9 @@
 export default {
   'admin.readings.date': 'Ablesezeitpunkt',
-  'admin.readings.wattHour': 'Messwert',
-  'admin.readings.rawValue': 'Raw value',
-  'admin.readings.value': 'Value',
-  'admin.readings.unit': 'Unit',
+  'admin.readings.wattHour': 'Wattstunde',
+  'admin.readings.rawValue': 'Abgelesener Wert',
+  'admin.readings.value': 'Wert',
+  'admin.readings.unit': 'Einheit',
   'admin.readings.reason': 'Ablesegrund',
   'admin.readings.readBy': 'Ableser',
   'admin.readings.quality': 'Qualität',
@@ -37,5 +37,5 @@ export default {
   'admin.readings.Z83': 'Z83 - Kundenselbstablesung',
   'admin.readings.Z84': 'Z84 - Leerstand',
   'admin.readings.Z86': 'Z86 - Plausibel wg. Kontrollablesung',
-  'admin.readings.headerReading': 'Reading',
+  'admin.readings.headerReading': 'Zählerstand',
 };
