@@ -10,6 +10,7 @@ import formulas from './en/formulas';
 import bankAccounts from './en/bank_accounts';
 import types from './en/types';
 import readings from './en/readings';
+import auth from './en/auth';
 
 export default {
   ...meters,
@@ -24,4 +25,5 @@ export default {
   ...bankAccounts,
   ...types,
   ...readings,
+  ...auth,
 };

@@ -9,7 +9,8 @@ import addresses from './de/addresses';
 import formulas from './de/formulas';
 import bankAccounts from './de/bank_accounts';
 import types from './de/types';
-import readings from './en/readings';
+import readings from './de/readings';
+import auth from './de/auth';
 
 export default {
   ...meters,
@@ -24,4 +25,5 @@ export default {
   ...bankAccounts,
   ...types,
   ...readings,
+  ...auth,
 };
