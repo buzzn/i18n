@@ -1,8 +1,8 @@
 export default {
   'admin.auth.username': 'Benutzername',
-  'admin.auth.enterUsername': 'Gib deinen Benutzernamen',
+  'admin.auth.enterUsername': 'Gib deinen Benutzernamen an',
   'admin.auth.password': 'Passwort',
-  'admin.auth.enterPassword': 'Gib deinen Passwort',
+  'admin.auth.enterPassword': 'Gib dein Passwort an',
   'admin.auth.signinButton': 'Anmelden',
-  'admin.auth.signinFailed': 'Nutzername und Passwort stimmen nicht überein',
+  'admin.auth.signinFailed': 'Benutzername oder Passwort stimmen nicht',
 };
