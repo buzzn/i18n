@@ -11,6 +11,7 @@ import bankAccounts from './en/bank_accounts';
 import types from './en/types';
 import readings from './en/readings';
 import auth from './en/auth';
+import groups from './en/groups';
 
 export default {
   ...meters,
@@ -26,4 +27,5 @@ export default {
   ...types,
   ...readings,
   ...auth,
+  ...groups,
 };
