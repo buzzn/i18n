@@ -7,4 +7,5 @@ export default {
   'admin.groups.energySources': 'Adresse',
   'admin.groups.startDate': 'Starttermin',
   'admin.addresses.address': 'Quellen',
+  'admin.groups.headerGroupsList': 'Deine Energiegruppen',
 };
