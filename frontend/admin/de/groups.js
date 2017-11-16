@@ -8,4 +8,5 @@ export default {
   'admin.groups.startDate': 'Starttermin',
   'admin.addresses.address': 'Quellen',
   'admin.groups.headerGroupsList': 'Deine Energiegruppen',
+  'admin.groups.breadcrumbsMyLocalpools': 'My groups',
 };

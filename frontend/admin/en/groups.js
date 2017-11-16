@@ -8,4 +8,5 @@ export default {
   'admin.groups.startDate': 'Start date',
   'admin.addresses.address': 'Address',
   'admin.groups.headerGroupsList': 'Your groups',
+  'admin.groups.breadcrumbsMyLocalpools': 'My groups',
 };
