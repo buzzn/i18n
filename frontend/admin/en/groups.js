@@ -9,4 +9,7 @@ export default {
   'admin.addresses.address': 'Address',
   'admin.groups.headerGroupsList': 'Your groups',
   'admin.groups.breadcrumbsMyLocalpools': 'My groups',
+  'admin.groups.distributionSystemOperator': 'DSO',
+  'admin.groups.transmissionSystemOperator': 'TSO',
+  'admin.groups.electricitySupplier': 'ES',
 };

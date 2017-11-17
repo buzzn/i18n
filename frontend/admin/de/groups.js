@@ -9,4 +9,7 @@ export default {
   'admin.addresses.address': 'Quellen',
   'admin.groups.headerGroupsList': 'Deine Energiegruppen',
   'admin.groups.breadcrumbsMyLocalpools': 'My groups',
+  'admin.groups.distributionSystemOperator': 'VNB, check translation',
+  'admin.groups.transmissionSystemOperator': 'ÜNB, check translation',
+  'admin.groups.electricitySupplier': 'Lieferant',
 };
