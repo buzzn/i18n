@@ -12,4 +12,9 @@ export default {
   'admin.groups.distributionSystemOperator': 'VNB, check translation',
   'admin.groups.transmissionSystemOperator': 'ÜNB, check translation',
   'admin.groups.electricitySupplier': 'Lieferant',
+  'admin.groups.visibility': 'Sichtbarkeit',
+  'admin.groups.showObject': '!add translation (groups)',
+  'admin.groups.showProduction': '!add translation (groups)',
+  'admin.groups.showEnergy': '!add translation (groups)',
+  'admin.groups.showContact': 'Kontaktdaten',
 };

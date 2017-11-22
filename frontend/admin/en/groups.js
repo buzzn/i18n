@@ -12,4 +12,9 @@ export default {
   'admin.groups.distributionSystemOperator': 'DSO',
   'admin.groups.transmissionSystemOperator': 'TSO',
   'admin.groups.electricitySupplier': 'ES',
+  'admin.groups.visibility': 'Visibility',
+  'admin.groups.showObject': 'Object',
+  'admin.groups.showProduction': 'Production',
+  'admin.groups.showEnergy': 'Energy',
+  'admin.groups.showContact': 'Contact',
 };
