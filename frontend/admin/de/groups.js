@@ -17,4 +17,5 @@ export default {
   'admin.groups.showProduction': '!add translation (groups)',
   'admin.groups.showEnergy': '!add translation (groups)',
   'admin.groups.showContact': 'Kontaktdaten',
+  'admin.groups.headerPowergiver': 'Stromgeber',
 };

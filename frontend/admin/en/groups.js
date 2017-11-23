@@ -17,4 +17,5 @@ export default {
   'admin.groups.showProduction': 'Production',
   'admin.groups.showEnergy': 'Energy',
   'admin.groups.showContact': 'Contact',
+  'admin.groups.headerPowergiver': 'Powergiver',
 };
