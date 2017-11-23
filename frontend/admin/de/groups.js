@@ -13,9 +13,9 @@ export default {
   'admin.groups.transmissionSystemOperator': 'ÜNB',
   'admin.groups.electricitySupplier': 'Lieferant',
   'admin.groups.visibility': 'Sichtbarkeit',
-  'admin.groups.showObject': '!add translation (groups)',
-  'admin.groups.showProduction': '!add translation (groups)',
-  'admin.groups.showEnergy': '!add translation (groups)',
+  'admin.groups.showObject': 'PLZ, Ort, Foto',
+  'admin.groups.showProduction': 'Erzeugungsanlagen',
+  'admin.groups.showEnergy': 'Localpool',
   'admin.groups.showContact': 'Kontaktdaten',
   'admin.groups.headerPowergiver': 'Stromgeber',
 };
