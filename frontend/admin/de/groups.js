@@ -18,4 +18,5 @@ export default {
   'admin.groups.showEnergy': 'Localpool',
   'admin.groups.showContact': 'Kontaktdaten',
   'admin.groups.headerPowergiver': 'Stromgeber',
+  'admin.groups.bankAccount': 'Bankkonto',
 };
