@@ -19,4 +19,5 @@ export default {
   'admin.groups.showContact': 'Kontaktdaten',
   'admin.groups.headerPowergiver': 'Stromgeber',
   'admin.groups.bankAccount': 'Bankkonto',
+  'admin.persons.customerNumber': 'Kundennummer',
 };
