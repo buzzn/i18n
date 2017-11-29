@@ -32,4 +32,10 @@ export default {
   'admin.registers.navPillRegisterData': 'Zählwerk',
   'admin.registers.navPillReadings': 'Zählerstände',
   'admin.registers.navPillFormula': 'Formel',
+  'admin.registers.tableName': 'Name',
+  'admin.registers.tableMeteringPointId': 'Zählernummer',
+  'admin.registers.tableDirection': 'Richtung',
+  'admin.registers.tableLabel': 'Label',
+  'admin.registers.headerRegisterPower': 'Power !change translation!',
+  'admin.registers.headerRegisterDetails': 'Register details !change translation!',
 };

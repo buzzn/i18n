@@ -32,4 +32,10 @@ export default {
   'admin.registers.navPillRegisterData': 'Register Data',
   'admin.registers.navPillReadings': 'Readings',
   'admin.registers.navPillFormula': 'Formula',
+  'admin.registers.tableName': 'Name',
+  'admin.registers.tableMeteringPointId': 'Metering point id',
+  'admin.registers.tableDirection': 'Direction',
+  'admin.registers.tableLabel': 'Label',
+  'admin.registers.headerRegisterPower': 'Power',
+  'admin.registers.headerRegisterDetails': 'Register details',
 };
