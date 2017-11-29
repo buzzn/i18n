@@ -19,4 +19,5 @@ export default {
   'admin.persons.navPillContactInfo': 'Kontaktdaten',
   'admin.persons.navPillAccount': 'Benutzerkonto',
   'admin.persons.navPillBank': 'Bankkonten',
+  'admin.persons.customerNumber': 'Kundennummer',
 };

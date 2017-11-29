@@ -6,4 +6,5 @@ export default {
   'admin.organizations.website': 'Website',
   'admin.organizations.phone': 'Phone',
   'admin.organizations.fax': 'Fax',
+  'admin.organizations.customerNumber': 'Customer number',
 };

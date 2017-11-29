@@ -18,4 +18,6 @@ export default {
   'admin.groups.showEnergy': 'Energy',
   'admin.groups.showContact': 'Contact',
   'admin.groups.headerPowergiver': 'Powergiver',
+  'admin.groups.bankAccount': 'Bank account',
+  'admin.groups.customerNumber': 'Customer number',
 };
