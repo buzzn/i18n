@@ -36,6 +36,8 @@ export default {
   'admin.registers.tableMeteringPointId': 'Zählernummer',
   'admin.registers.tableDirection': 'Richtung',
   'admin.registers.tableLabel': 'Label',
-  'admin.registers.headerRegisterPower': 'Power !change translation!',
-  'admin.registers.headerRegisterDetails': 'Register details !change translation!',
+  'admin.registers.headerRegisterPower': 'Aktueller Wert',
+  'admin.registers.headerRegisterDetails': 'Register-Details',
+  'admin.registers.sharePublicly': 'Öffentlich teilen',
+  'admin.registers.shareGroup': 'In der Gruppe teilen',
 };
