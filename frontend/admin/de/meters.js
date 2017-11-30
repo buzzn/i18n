@@ -63,4 +63,5 @@ export default {
   'admin.meters.converterConstant': 'Wandlerfaktor',
   'admin.meters.headerMeterData': 'Zählpunkt',
   'admin.meters.headerClassification': 'Klassifizierung',
+  'admin.meters.tableProductSerialnumber': 'Zählernummer',
 };
