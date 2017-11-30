@@ -20,4 +20,7 @@ export default {
   'admin.groups.headerPowergiver': 'Stromgeber',
   'admin.groups.bankAccount': 'Bankkonto',
   'admin.groups.customerNumber': 'Kundennummer',
+  'admin.groups.statProduction': 'Produktion',
+  'admin.groups.statConsumption': 'Verbrauch',
+  'admin.groups.statAutarchy': 'Autarkie',
 };
