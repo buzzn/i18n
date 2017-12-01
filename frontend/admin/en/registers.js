@@ -38,4 +38,5 @@ export default {
   'admin.registers.tableLabel': 'Label',
   'admin.registers.headerRegisterPower': 'Power',
   'admin.registers.headerRegisterDetails': 'Register details',
+  'admin.registers.headerEdifactInformation': 'EDIFACT information',
 };

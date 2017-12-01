@@ -39,4 +39,5 @@ export default {
   'admin.registers.headerRegisterDetails': 'Register-Details',
   'admin.registers.sharePublicly': 'Öffentlich teilen',
   'admin.registers.shareGroup': 'In der Gruppe teilen',
+  'admin.registers.headerEdifactInformation': 'EDIFACT information',
 };
