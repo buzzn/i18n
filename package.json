@@ -6,7 +6,7 @@
   "author": "ChipJuggler <scsi.rdx@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "postinstall": "babel frontend/ -d dist/"
+    "postinstall": "npx babel frontend/ -d dist/"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
@@ -60,12 +60,22 @@
       }
     }
   },
+  "dependencies": {
+    "@babel/cli": "^7.0.0-beta.34",
+    "@babel/core": "^7.0.0-beta.34",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.34",
+    "@babel/plugin-syntax-object-rest-spread": "^7.0.0-beta.34",
+    "@babel/preset-env": "^7.0.0-beta.34"
+  },
   "devDependencies": {
-    "babel-cli": "^6.18.0",
-    "babel-core": "^6.20.0",
-    "babel-eslint": "^7.1.1",
-    "eslint": "^3.12.1",
-    "eslint-config-airbnb": "^13.0.0",
-    "eslint-plugin-import": "^2.2.0"
+    "@babel/cli": "^7.0.0-beta.34",
+    "@babel/core": "^7.0.0-beta.34",
+    "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.34",
+    "@babel/plugin-syntax-object-rest-spread": "^7.0.0-beta.34",
+    "@babel/preset-env": "^7.0.0-beta.34",
+    "babel-eslint": "^8.0.2",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
