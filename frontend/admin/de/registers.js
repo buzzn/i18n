@@ -36,7 +36,7 @@ export default {
   'admin.registers.tableDirection': 'Richtung',
   'admin.registers.tableLabel': 'Label',
   'admin.registers.headerRegisterPower': 'Aktueller Wert',
-  'admin.registers.headerRegisterDetails': 'Register-Details',
+  'admin.registers.headerRegisterDetails': 'Zählwerk-Details',
   'admin.registers.sharePublicly': 'Öffentlich teilen',
   'admin.registers.shareGroup': 'In der Gruppe teilen',
   'admin.registers.headerEdifactInformation': 'EDIFACT information',
