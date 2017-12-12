@@ -38,4 +38,7 @@ export default {
   'admin.readings.Z84': 'Z84 - Empty',
   'admin.readings.Z86': 'Z86 - Plausible',
   'admin.readings.headerReading': 'Reading',
+  'admin.readings.tableDate': 'Date',
+  'admin.readings.tableValue': 'Value',
+  'admin.readings.tableReason': 'Reason',
 };

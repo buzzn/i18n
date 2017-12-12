@@ -38,4 +38,7 @@ export default {
   'admin.readings.Z84': 'Z84 - Leerstand',
   'admin.readings.Z86': 'Z86 - Plausibel wg. Kontrollablesung',
   'admin.readings.headerReading': 'Zählerstand',
+  'admin.readings.tableDate': 'Datum',
+  'admin.readings.tableValue': 'Messwert',
+  'admin.readings.tableReason': 'Ablesegrund',
 };
