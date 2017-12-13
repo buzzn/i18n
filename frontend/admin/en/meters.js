@@ -63,6 +63,7 @@ export default {
   'admin.meters.converterConstant': 'Converter Constant',
   'admin.meters.headerMeterData': 'Meter Data',
   'admin.meters.headerClassification': 'Classification',
+  'admin.meters.tableProductSerialnumber': 'Serial number',
   'admin.meters.headerRegistersReadings': 'Registers and last readings',
   'admin.meters.headerMeterDetails': 'Meter details',
   'admin.meters.manufacturerDescription': 'Manufacturer description',
