@@ -63,4 +63,13 @@ export default {
   'admin.meters.converterConstant': 'Converter Constant',
   'admin.meters.headerMeterData': 'Meter Data',
   'admin.meters.headerClassification': 'Classification',
+  'admin.meters.headerRegistersReadings': 'Registers and last readings',
+  'admin.meters.headerMeterDetails': 'Meter details',
+  'admin.meters.manufacturerDescription': 'Manufacturer description',
+  'admin.meters.locationDescription': 'Location description',
+  'admin.meters.dataSource': 'Data source',
+  'admin.meters.discovergy': 'Discovergy',
+  'admin.meters.standard_profile': 'Standard profile',
+  'admin.meters.sequenceNumber': 'Sequence number',
+  'admin.meters.headerEdifactInformation': 'Edifact information',
 };

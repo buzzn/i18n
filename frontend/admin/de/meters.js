@@ -64,4 +64,13 @@ export default {
   'admin.meters.headerMeterData': 'Zählpunkt',
   'admin.meters.headerClassification': 'Klassifizierung',
   'admin.meters.tableProductSerialnumber': 'Zählernummer',
+  'admin.meters.headerRegistersReadings': 'Register und letzter Messwert',
+  'admin.meters.headerMeterDetails': 'Meter details',
+  'admin.meters.manufacturerDescription': 'Herstellerbeschreibung',
+  'admin.meters.locationDescription': 'Installationsort',
+  'admin.meters.dataSource': 'Datenquelle',
+  'admin.meters.discovergy': 'Discovergy',
+  'admin.meters.standard_profile': 'Standardlastprofil',
+  'admin.meters.sequenceNumber': 'Sequenz Nummer',
+  'admin.meters.headerEdifactInformation': 'EDIFACT attributes',
 };
