@@ -25,7 +25,7 @@ export default {
   'admin.registers.out': 'Entnahme',
   'admin.registers.obis': 'OBIS',
   'admin.registers.preDecimalPosition': 'Vorkommastellen',
-  'admin.registers.postDecimalPosition': 'Nachkommestellen',
+  'admin.registers.postDecimalPosition': 'Nachkommastellen',
   'admin.registers.lowLoadAbility': 'Schwachlastfähig',
   'admin.registers.observerEnabled': 'Überwachung eingeschaltet',
   'admin.registers.observerMinThreshold': 'Untere Schwelle',
