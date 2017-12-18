@@ -23,4 +23,5 @@ export default {
   'admin.groups.statProduction': 'Produktion',
   'admin.groups.statConsumption': 'Verbrauch',
   'admin.groups.statAutarchy': 'Autarkie',
+  'admin.groups.showDisplayApp': 'Show display app',
 };
