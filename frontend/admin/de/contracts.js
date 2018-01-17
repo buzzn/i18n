@@ -32,4 +32,12 @@ export default {
   'admin.contracts.navPillTariffs': 'Tarife',
   'admin.contracts.navPillPayments': 'Abschlagszahlungen',
   'admin.contracts.contractNumber': 'Vertragsnummer',
+  'admin.contracts.navActivePowertakers': 'Aktive Stromnehmer',
+  'admin.contracts.navPastPowertakers': 'Ehemalige Stromnehmer',
+  'admin.contracts.tableName': 'Name',
+  'admin.contracts.tableRegisterName': 'Register name',
+  'admin.contracts.tableContractNumber': 'Contract number',
+  'admin.contracts.tableBeginDate': 'Date of start',
+  'admin.contracts.tableEndDate': 'End date',
+  'admin.contracts.tableStatus': 'Status',
 };
