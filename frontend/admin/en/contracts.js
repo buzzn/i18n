@@ -32,4 +32,8 @@ export default {
   'admin.contracts.navPillTariffs': 'Tariffs',
   'admin.contracts.navPillPayments': 'Payments',
   'admin.contracts.contractNumber': 'Contract number',
+  'admin.contracts.onboarding': 'Onboarding',
+  'admin.contracts.active': 'Active',
+  'admin.contracts.terminated': 'Terminated',
+  'admin.contracts.ended': 'Ended',  
 };
