@@ -6,7 +6,6 @@ export default {
   'admin.groups.name': 'Name',
   'admin.groups.energySources': 'Energy sources',
   'admin.groups.startDate': 'Start date',
-  'admin.addresses.address': 'Address',
   'admin.groups.headerGroupsList': 'Your groups',
   'admin.groups.breadcrumbsMyLocalpools': 'My groups',
   'admin.groups.distributionSystemOperator': 'DSO',
