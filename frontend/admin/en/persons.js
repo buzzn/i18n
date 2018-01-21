@@ -1,5 +1,6 @@
 export default {
   'admin.persons.phone': 'Phone',
+  'admin.persons.fax': 'Fax',
   'admin.persons.email': 'Email',
   'admin.persons.lastLogin': 'Last login',
   'admin.persons.headerContact': 'Contact person',
