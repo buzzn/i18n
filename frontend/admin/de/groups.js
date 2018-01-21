@@ -6,7 +6,6 @@ export default {
   'admin.groups.name': 'Gruppenname',
   'admin.groups.energySources': 'Quellen',
   'admin.groups.startDate': 'Starttermin',
-  'admin.addresses.address': 'Adresse',
   'admin.groups.headerGroupsList': 'Deine Energiegruppen',
   'admin.groups.breadcrumbsMyLocalpools': 'My groups',
   'admin.groups.distributionSystemOperator': 'VNB',
