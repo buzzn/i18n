@@ -40,4 +40,8 @@ export default {
   'admin.contracts.tableBeginDate': 'Beginn',
   'admin.contracts.tableEndDate': 'Ende',
   'admin.contracts.tableStatus': 'Status',
+  'admin.contracts.onboarding': 'Im Wechselprozess',
+  'admin.contracts.active': 'In Belieferung',
+  'admin.contracts.terminated': 'Gekündigt',
+  'admin.contracts.ended': 'Beendet',
 };
