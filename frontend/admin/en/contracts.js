@@ -25,6 +25,7 @@ export default {
   'admin.contracts.tableSince': 'Begin',
   'admin.contracts.tableNumber': 'Contract #',
   'admin.contracts.tableName': 'Name',
+  'admin.contracts.tableGroupName': 'Group name',
   'admin.contracts.tableRegisterName': 'Register name',
   'admin.contracts.tableContractNumber': 'Contract number',
   'admin.contracts.tableBeginDate': 'Start',
@@ -44,4 +45,6 @@ export default {
   'admin.contracts.backPowertakers': 'Powertakers',
   'admin.contracts.navActivePowertakers': 'Active',
   'admin.contracts.navPastPowertakers': 'Ended',
+  'admin.contracts.headerContactInfo': 'Contact info',
+  'admin.contracts.headerContractsList': 'Contracts list',
 };
