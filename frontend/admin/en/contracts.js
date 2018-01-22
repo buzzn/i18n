@@ -40,5 +40,8 @@ export default {
   'admin.contracts.onboarding': 'Onboarding',
   'admin.contracts.active': 'Active',
   'admin.contracts.terminated': 'Terminated',
-  'admin.contracts.ended': 'Ended',  
+  'admin.contracts.ended': 'Ended',
+  'admin.contracts.backPowertakers': 'Powertakers',
+  'admin.contracts.navActivePowertakers': 'Active',
+  'admin.contracts.navPastPowertakers': 'Ended',
 };
