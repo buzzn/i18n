@@ -32,6 +32,7 @@ export default {
   'admin.contracts.tableEndDate': 'End',
   'admin.contracts.contract_metering_point_operator': 'Metering Point Operator',
   'admin.contracts.contract_localpool_processing': 'Local Pool Processing',
+  'admin.contracts.contract_localpool_power_taker': 'Local Pool PowerTaker',
   'admin.contracts.navPillContract': 'Contract',
   'admin.contracts.navPillCustomer': 'Customer',
   'admin.contracts.navPillContractor': 'Contractor',
