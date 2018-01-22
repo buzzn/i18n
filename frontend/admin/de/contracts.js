@@ -44,4 +44,7 @@ export default {
   'admin.contracts.active': 'In Belieferung',
   'admin.contracts.terminated': 'Gekündigt',
   'admin.contracts.ended': 'Beendet',
+  'admin.contracts.backPowertakers': 'Stromnehmer',
+  'admin.contracts.navActivePowertakers': 'Aktive Stromnehmer',
+  'admin.contracts.navPastPowertakers': 'Ehemalige Stromnehmer',
 };
