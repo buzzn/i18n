@@ -26,7 +26,7 @@ export default {
   'admin.contracts.tableNumber': 'Vertragsnummer',
   'admin.contracts.contract_metering_point_operator': 'Messvertrag',
   'admin.contracts.contract_localpool_processing': 'Abwicklungsvertrag',
-  'admin.contracts.contract_localpool_power_taker': 'Stromnehmervertrag',
+  'admin.contracts.contract_localpool_power_taker': 'Lokaler Stromnehmervertrag',
   'admin.contracts.navPillContract': 'Vertrag',
   'admin.contracts.navPillCustomer': 'Vertragsnehmer',
   'admin.contracts.navPillContractor': 'Vertragsgeber',
