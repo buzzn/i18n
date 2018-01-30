@@ -63,4 +63,7 @@ export default {
   'admin.contracts.forecastKwhPa': 'Prognose',
   'admin.contracts.headerDates': 'Daten',
   'admin.contracts.terminationDate': 'Datum der Kündigung',
+  'admin.contracts.F': 'voll',
+  'admin.contracts.R': 'reduziert',
+  'admin.contracts.N': 'keine',
 };
