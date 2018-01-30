@@ -59,7 +59,7 @@ export default {
   'admin.contracts.meterSerial': 'Zählernummer',
   'admin.contracts.customer': 'Vertragsnehmer',
   'admin.contracts.customerNumber': 'Kundennummer',
-  'admin.contracts.contractorNumber': 'Vertragsgeber',
+  'admin.contracts.contractor': 'Vertragsgeber',
   'admin.contracts.forecastKwhPa': 'Prognose',
   'admin.contracts.headerDates': 'Daten',
   'admin.contracts.terminationDate': 'Datum der Kündigung',
