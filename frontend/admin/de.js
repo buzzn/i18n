@@ -12,6 +12,7 @@ import types from './de/types';
 import readings from './de/readings';
 import auth from './de/auth';
 import groups from './de/groups';
+import breadcrumbs from './de/breadcrumbs';
 
 export default {
   ...meters,
@@ -28,4 +29,5 @@ export default {
   ...readings,
   ...auth,
   ...groups,
+  ...breadcrumbs,
 };

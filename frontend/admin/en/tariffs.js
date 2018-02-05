@@ -6,4 +6,13 @@ export default {
   'admin.tariffs.energyPricePerKw': 'Price per kWh',
   'admin.tariffs.nbasePricePerMonth': 'Base price per month',
   'admin.tariffs.headerTariffData': 'Tariff data',
+  'admin.tariffs.backTariffs': 'Tariffs',
+  'admin.tariffs.navActiveTariffs': 'Active',
+  'admin.tariffs.navPastTariffs': 'Past',
+  'admin.tariffs.tableName': 'Name',
+  'admin.tariffs.tableBeginDate': 'Start date',
+  'admin.tariffs.tableEndDate': 'End date',
+  'admin.tariffs.tableBasepriceCentsPerMonth': 'Base/month',
+  'admin.tariffs.tableEnergypriceCentsPerKwh': 'Base/kw',
+  'admin.tariffs.numberOfContracts': 'Number of contracts',
 };

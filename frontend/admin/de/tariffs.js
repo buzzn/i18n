@@ -6,4 +6,13 @@ export default {
   'admin.tariffs.energyPricePerKw': 'Preis pro kWh',
   'admin.tariffs.nbasePricePerMonth': 'Grundpreis pro Monat',
   'admin.tariffs.headerTariffData': 'Tarifdaten',
+  'admin.tariffs.backTariffs': 'Stromtarif',
+  'admin.tariffs.navActiveTariffs': 'Aktuelle Tarife',
+  'admin.tariffs.navPastTariffs': 'Alte Tarife',
+  'admin.tariffs.tableName': 'Name',
+  'admin.tariffs.tableBeginDate': 'Starttermin',
+  'admin.tariffs.tableEndDate': 'Endtermin',
+  'admin.tariffs.tableBasepriceCentsPerMonth': 'Grundpreis/Monat',
+  'admin.tariffs.tableEnergypriceCentsPerKwh': 'Arbeitspreis/kWh',
+  'admin.tariffs.numberOfContracts': 'Verträge',
 };
