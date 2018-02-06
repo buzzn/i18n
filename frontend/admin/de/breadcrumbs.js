@@ -1,4 +1,4 @@
 export default {
-  'admin.breadcumbs.myGroups': '!!Translation needed!!',
-  'admin.breadcumbs.tariffs': '!!Translation needed!!',
+  'admin.breadcumbs.myGroups': 'Gruppen',
+  'admin.breadcumbs.tariffs': 'Tarife',
 };
