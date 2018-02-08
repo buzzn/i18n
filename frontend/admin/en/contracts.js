@@ -63,4 +63,5 @@ export default {
   'admin.contracts.F': 'full',
   'admin.contracts.R': 'reduced',
   'admin.contracts.N': 'null',
+  'admin.contracts.thirdPartyContractor': 'Third party',
 };
