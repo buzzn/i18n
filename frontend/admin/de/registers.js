@@ -39,7 +39,7 @@ export default {
   'admin.registers.navPillFormula': 'Formel',
   'admin.registers.tableName': 'Name',
   'admin.registers.tableDirection': 'Richtung',
-  'admin.registers.tableLabel': 'Label',
+  'admin.registers.tableLabel': 'Kennzeichnung',
   'admin.registers.headerRegisterPower': 'Aktueller Wert',
   'admin.registers.headerRegisterDetails': 'Zählwerk',
   'admin.registers.sharePublicly': 'Öffentlich teilen',
