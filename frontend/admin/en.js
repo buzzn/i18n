@@ -13,6 +13,7 @@ import readings from './en/readings';
 import auth from './en/auth';
 import groups from './en/groups';
 import breadcrumbs from './en/breadcrumbs';
+import sidebar from './en/sidebar';
 
 export default {
   ...meters,
@@ -30,4 +31,5 @@ export default {
   ...auth,
   ...groups,
   ...breadcrumbs,
+  ...sidebar,
 };
