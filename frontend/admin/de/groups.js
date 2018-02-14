@@ -23,4 +23,5 @@ export default {
   'admin.groups.statConsumption': 'Verbrauch',
   'admin.groups.statAutarchy': 'Autarkie',
   'admin.groups.showDisplayApp': 'Show display app',
+  'admin.groups.headerGapCustomer': 'Lerrstandskunde',
 };
