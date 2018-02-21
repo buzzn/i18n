@@ -1,7 +1,7 @@
 export default {
-  'admin.marketlocations.navConsumption': 'Bezugsstellen',
-  'admin.marketlocations.navProduction': 'Produktionsstellen',
-  'admin.marketlocations.navContracts': '?? Contracts',
-  'admin.marketlocations.navRegisters': '?? Registers',
-  'admin.marketlocations.tableName': 'Name',
+  'admin.marketLocations.navConsumption': 'Bezugsstellen',
+  'admin.marketLocations.navProduction': 'Produktionsstellen',
+  'admin.marketLocations.navContracts': '?? Contracts',
+  'admin.marketLocations.navRegisters': '?? Registers',
+  'admin.marketLocations.tableName': 'Name',
 };

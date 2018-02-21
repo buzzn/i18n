@@ -1,7 +1,7 @@
 export default {
-  'admin.marketlocations.navConsumption': 'Consumption',
-  'admin.marketlocations.navProduction': 'Production',
-  'admin.marketlocations.navContracts': 'Contracts',
-  'admin.marketlocations.navRegisters': 'Registers',
-  'admin.marketlocations.tableName': 'Name',
+  'admin.marketLocations.navConsumption': 'Consumption',
+  'admin.marketLocations.navProduction': 'Production',
+  'admin.marketLocations.navContracts': 'Contracts',
+  'admin.marketLocations.navRegisters': 'Registers',
+  'admin.marketLocations.tableName': 'Name',
 };
