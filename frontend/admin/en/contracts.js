@@ -51,6 +51,7 @@ export default {
   'admin.contracts.objectTypePowerGiver': 'Powergiver',
   'admin.contracts.objectTypePowerRegister': 'Register',
   'admin.contracts.objectTypePowerTaker': 'Powertaker',
+  'admin.contracts.objectTypeMarketLocation': 'Market Location',
   'admin.contracts.headerContractsDetails': 'Contract details',
   'admin.contracts.registerName': 'Register name',
   'admin.contracts.meterSerial': 'Meter serial',

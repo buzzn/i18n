@@ -45,4 +45,10 @@ export default {
   'admin.registers.sharePublicly': 'Öffentlich teilen',
   'admin.registers.shareGroup': 'In der Gruppe teilen',
   'admin.registers.headerEdifactInformation': 'EDIFACT',
+  'admin.registers.navReadings': '?? Readings',
+  'admin.registers.navContracts': '?? Contracts',
+  'admin.registers.navDevices': '?? Devices',
+  'admin.registers.navDetails': '?? Details',
+  'admin.registers.tableObis': 'OBIS',
+  'admin.registers.tableKind': '?? Kind',
 };

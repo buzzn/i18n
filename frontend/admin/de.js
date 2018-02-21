@@ -14,6 +14,7 @@ import auth from './de/auth';
 import groups from './de/groups';
 import breadcrumbs from './de/breadcrumbs';
 import sidebar from './de/sidebar';
+import marketLocations from './de/market_locations';
 
 export default {
   ...meters,
@@ -32,4 +33,5 @@ export default {
   ...groups,
   ...breadcrumbs,
   ...sidebar,
+  ...marketLocations,
 };

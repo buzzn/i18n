@@ -44,4 +44,10 @@ export default {
   'admin.registers.headerRegisterPower': 'Power',
   'admin.registers.headerRegisterDetails': 'Register details',
   'admin.registers.headerEdifactInformation': 'EDIFACT information',
+  'admin.registers.navReadings': 'Readings',
+  'admin.registers.navContracts': 'Contracts',
+  'admin.registers.navDevices': 'Devices',
+  'admin.registers.navDetails': 'Details',
+  'admin.registers.tableObis': 'OBIS',
+  'admin.registers.tableKind': 'Kind',
 };

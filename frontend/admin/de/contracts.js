@@ -54,6 +54,7 @@ export default {
   'admin.contracts.objectTypePowerGiver': 'Stromgeber',
   'admin.contracts.objectTypePowerRegister': 'Zählwerk',
   'admin.contracts.objectTypePowerTaker': 'Stromnehmer',
+  'admin.contracts.objectTypeMarketLocation': 'Marktlokation',
   'admin.contracts.headerContractsDetails': 'Details',
   'admin.contracts.registerName': 'Zählwerk',
   'admin.contracts.meterSerial': 'Zählernummer',
