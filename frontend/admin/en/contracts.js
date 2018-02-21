@@ -6,6 +6,7 @@ export default {
   'admin.contracts.headerContractData': 'Contract Data',
   'admin.contracts.fullContractNumber': 'Contract number',
   'admin.contracts.endDate': 'End date',
+  'admin.contracts.lastDate' : 'End date',
   'admin.contracts.signingDate': 'Signed on',
   'admin.contracts.signingUser': 'Signed by',
   'admin.contracts.cancelationDate': 'Canceled on',

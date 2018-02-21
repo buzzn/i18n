@@ -1,5 +1,6 @@
 export default {
   'admin.organizations.headerOrganization': 'Organisation',
+  'admin.organizations.headerContact': '!! translate Contact person',
   'admin.organizations.name': 'Name',
   'admin.organizations.description': 'Beschreibung',
   'admin.organizations.email': 'Email',
