@@ -7,4 +7,5 @@ export default {
   'admin.types.tariff': 'Tarif',
   'admin.types.formula': 'Formel',
   'admin.types.reading': 'Zählerstand',
+  'admin.types.marketlocation' : 'Bezugsstelle',
 };
