@@ -7,4 +7,5 @@ export default {
   'admin.types.tariff': 'Tariff',
   'admin.types.formula': 'Formula',
   'admin.types.reading': 'Reading',
+  'admin.types.marketLocation': 'Market location',
 };
