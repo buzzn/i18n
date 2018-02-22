@@ -4,5 +4,5 @@ export default {
   'admin.marketLocations.navContracts': 'Vertäge',
   'admin.marketLocations.navRegisters': 'Zählwerke',
   'admin.marketLocations.tableName': 'Name',
-  'admin.marketLocations.Name': 'Bezugsstelle',
+  'admin.marketLocations.name': 'Bezugsstelle',
 };
