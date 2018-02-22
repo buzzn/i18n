@@ -63,7 +63,7 @@ export default {
   'admin.contracts.customer': 'Vertragsnehmer',
   'admin.contracts.customerNumber': 'Kundennummer',
   'admin.contracts.contractor': 'Vertragsgeber',
-  'admin.contracts.forecastKwhPa': 'Prognose',
+  'admin.contracts.forecastKwhPa': 'Prognostizierter Verbrauch',
   'admin.contracts.headerDates': 'Daten',
   'admin.contracts.terminationDate': 'Datum der Kündigung',
   'admin.contracts.F': 'voll',
