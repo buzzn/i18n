@@ -5,4 +5,5 @@ export default {
   'admin.marketLocations.navContracts': 'Contracts',
   'admin.marketLocations.navRegisters': 'Registers',
   'admin.marketLocations.tableName': 'Name',
+  'admin.marketLocations.thirdPartyId': 'Third party id',
 };
