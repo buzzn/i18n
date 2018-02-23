@@ -37,6 +37,7 @@ export default {
   'admin.contracts.navActivePowertakers': 'Aktive Stromnehmer',
   'admin.contracts.navPastPowertakers': 'Ehemalige Stromnehmer',
   'admin.contracts.tableName': 'Name',
+  'admin.contracts.tableMarketLocation': 'Bezugsstelle',
   'admin.contracts.tableGroupName': 'Gruppenname',
   'admin.contracts.tableRegisterName': 'Zählwerk',
   'admin.contracts.tableContractNumber': 'Vertragsnummer',
