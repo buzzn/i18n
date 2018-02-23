@@ -26,6 +26,7 @@ export default {
   'admin.contracts.tableSince': 'Begin',
   'admin.contracts.tableNumber': 'Contract #',
   'admin.contracts.tableName': 'Name',
+  'admin.contracts.tableMarketLocation': 'MaLo',
   'admin.contracts.tableGroupName': 'Group name',
   'admin.contracts.tableRegisterName': 'Register name',
   'admin.contracts.tableContractNumber': 'Contract number',
