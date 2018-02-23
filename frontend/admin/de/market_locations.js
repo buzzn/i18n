@@ -6,4 +6,5 @@ export default {
   'admin.marketLocations.navRegisters': 'Zählwerke',
   'admin.marketLocations.tableName': 'Name',
   'admin.marketLocations.name': 'Bezugsstelle',
+  'admin.marketLocations.thirdPartyId': 'Marktlokations ID',
 };
