@@ -15,6 +15,8 @@ import groups from './de/groups';
 import breadcrumbs from './de/breadcrumbs';
 import sidebar from './de/sidebar';
 import marketLocations from './de/market_locations';
+import billingCycles from './de/billing_cycles';
+import buttons from './de/buttons';
 
 export default {
   ...meters,
@@ -34,4 +36,6 @@ export default {
   ...breadcrumbs,
   ...sidebar,
   ...marketLocations,
+  ...billingCycles,
+  ...buttons,
 };
