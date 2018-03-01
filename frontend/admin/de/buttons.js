@@ -1,4 +1,4 @@
 export default {
-  'admin.buttons.submit': '?? Submit',
-  'admin.buttons.cancel': '?? Cancel',
+  'admin.buttons.submit': 'Speichern',
+  'admin.buttons.cancel': 'Abbrechen',
 };
