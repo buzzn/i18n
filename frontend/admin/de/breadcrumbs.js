@@ -1,5 +1,5 @@
 export default {
   'admin.breadcumbs.myGroups': 'Gruppen',
   'admin.breadcumbs.tariffs': 'Tarife',
-  'admin.breadcumbs.billingCycles': '?? Billing Cycles',
+  'admin.breadcumbs.billingCycles': 'Turnusabrechnungen',
 };
