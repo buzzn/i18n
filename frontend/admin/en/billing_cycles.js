@@ -10,5 +10,5 @@ export default {
   'admin.billingCycles.bricksLegendOpen': 'Open',
   'admin.billingCycles.bricksLegendPT': 'Powertaker',
   'admin.billingCycles.bricksLegendGAP': 'Gap',
-  'admin.billingCycles.bricksLegendGAP': 'Third party',
+  'admin.billingCycles.bricksLegendTP': 'Third party',
 };

@@ -10,5 +10,5 @@ export default {
   'admin.billingCycles.bricksLegendOpen': 'Rechnung kalkul',
   'admin.billingCycles.bricksLegendPT': 'SN Vertrag',
   'admin.billingCycles.bricksLegendGAP': 'Lücken-vertrag',
-  'admin.billingCycles.bricksLegendGAP': 'Drittelbelieferte',
+  'admin.billingCycles.bricksLegendTP': 'Drittelbelieferte',
 };
