@@ -6,4 +6,6 @@ export default {
   'admin.marketLocations.navRegisters': 'Registers',
   'admin.marketLocations.tableName': 'Name',
   'admin.marketLocations.thirdPartyId': 'Third party id',
+  'admin.marketLocations.consumption': 'Consumption',
+  'admin.marketLocations.production': 'Production',
 };

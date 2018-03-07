@@ -7,4 +7,6 @@ export default {
   'admin.marketLocations.tableName': 'Name',
   'admin.marketLocations.name': 'Bezugsstelle',
   'admin.marketLocations.thirdPartyId': 'Marktlokations ID',
+  'admin.marketLocations.consumption': 'Consumption',
+  'admin.marketLocations.production': 'Production',
 };
