@@ -9,6 +9,6 @@ export default {
   'admin.billingCycles.bricksLegendClosed': 'Abgerechnet',
   'admin.billingCycles.bricksLegendOpen': 'Offen',
   'admin.billingCycles.bricksLegendPT': 'Stromnehmervertrag',
-  'admin.billingCycles.bricksLegendGAP': 'Leeratandsvertrag',
+  'admin.billingCycles.bricksLegendGAP': 'Leerstandsvertrag',
   'admin.billingCycles.bricksLegendTP': 'Drittbelieferte',
 };
