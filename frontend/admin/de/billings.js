@@ -10,5 +10,12 @@ export default {
   'admin.billings.tableBeginReadingKwh': 'Zählerstand Beginn',
   'admin.billings.tableEndReadingKwh': 'Zählerstand Ende',
   'admin.billings.tableConsumedEnergyKwh': 'Bezugsmenge',
-  'admin.billings.titleInvoices': 'Abrechnung',  
+  'admin.billings.tableDesignation': 'Bezeichung',
+  'admin.billings.tableAmount': 'Menge',
+  'admin.billings.tableUnit': 'Einheit',
+  'admin.billings.tablePriceForUnit': 'Preis je einheit',
+  'admin.billings.tableNetAmount': 'Nettobetrag',
+  'admin.billings.titleInvoices': 'Abrechnung',
+  'admin.billings.basePrice': 'Grundpreis',
+  'admin.billings.workingPrice': 'Arbeitspreis',
 };
