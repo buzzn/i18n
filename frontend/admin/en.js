@@ -16,6 +16,7 @@ import breadcrumbs from './en/breadcrumbs';
 import sidebar from './en/sidebar';
 import marketLocations from './en/market_locations';
 import billingCycles from './en/billing_cycles';
+import billings from './en/billings';
 import buttons from './en/buttons';
 
 export default {
@@ -37,5 +38,6 @@ export default {
   ...sidebar,
   ...marketLocations,
   ...billingCycles,
+  ...billings,
   ...buttons,
 };
