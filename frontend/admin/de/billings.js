@@ -3,7 +3,7 @@ export default {
   'admin.billings.customerName': 'Stromnehmer',
   'admin.billings.dateRange': 'Abrechnungszeitraum',
   'admin.billings.customerEmail': 'Emailadresse',
-  'admin.billings.Status': 'Status',
+  'admin.billings.status': 'Status',
   'admin.billings.titleReference': 'Bezugsmenge',
   'admin.billings.tableMeterSerial': 'Zählernummer',
   'admin.billings.tableDates': 'Zeitraum',
