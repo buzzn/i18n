@@ -18,6 +18,7 @@ import marketLocations from './de/market_locations';
 import billingCycles from './de/billing_cycles';
 import billings from './de/billings';
 import buttons from './de/buttons';
+import messages from './de/messages';
 
 export default {
   ...meters,
@@ -40,4 +41,5 @@ export default {
   ...billingCycles,
   ...billings,
   ...buttons,
+  ...messages,
 };
