@@ -1,3 +1,3 @@
 export default {
-  'admin.messages.cancelDirtyForm': '?? Here is a nice message that warns you.',
+  'admin.messages.cancelDirtyForm': 'Bist Du sicher?',
 };
