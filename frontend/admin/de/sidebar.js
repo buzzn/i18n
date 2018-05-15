@@ -6,7 +6,8 @@ export default {
   'admin.sidebar.tariffs': 'Tarife',
   'admin.sidebar.billing': 'Abrechnung',
   'admin.sidebar.contracts': 'Verträge',
-  'admin.sidebar.system': 'System',
+  'admin.sidebar.system': 'Zähler',
   'admin.sidebar.documents': 'Dokumente',
   'admin.sidebar.settings': 'Einstellungen',
+  'admin.sidebar.devices': 'Geräte',
 };
