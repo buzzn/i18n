@@ -1,6 +1,6 @@
 export default {
-  'admin.marketLocations.navConsumption': 'Bezugsstellen',
-  'admin.marketLocations.navProduction': 'Produktionsstellen',
+  'admin.marketLocations.navConsumption': 'Bezugszähler',
+  'admin.marketLocations.navProduction': 'Produktionszähler',
   'admin.marketLocations.navSystem': 'Systemzähler',
   'admin.marketLocations.navContracts': 'Verträge',
   'admin.marketLocations.navRegisters': 'Zählwerke',
