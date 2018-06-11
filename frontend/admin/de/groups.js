@@ -24,4 +24,8 @@ export default {
   'admin.groups.statAutarchy': 'Autarkie',
   'admin.groups.showDisplayApp': 'Display anzeigen',
   'admin.groups.headerGapCustomer': 'Leerstandskunde',
+  'admin.groups.navGroupSettings': 'Gruppe',
+  'admin.groups.navPowergiver': 'Stromgeber',
+  'admin.groups.navBank': 'Bankkonto',
+  'admin.groups.navGapContact': 'Gap Contract',
 };
