@@ -24,4 +24,8 @@ export default {
   'admin.groups.statAutarchy': 'Autarchy',
   'admin.groups.showDisplayApp': 'Show display app',
   'admin.groups.headerGapCustomer': 'Gap contract customer',
+  'admin.groups.navGroupSettings': 'Group',
+  'admin.groups.navPowergiver': 'Powergiver',
+  'admin.groups.navBank': 'Bank',
+  'admin.groups.navGapContact': 'GCC',
 };
