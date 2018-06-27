@@ -29,4 +29,5 @@ export default {
   'admin.groups.navBank': 'Bank',
   'admin.groups.navGapContact': 'GCC',
   'admin.groups.menuAddGroup': 'Create group',
+  'admin.groups.modalHeaderAdd': 'Create group',
 };
