@@ -28,4 +28,5 @@ export default {
   'admin.groups.navPowergiver': 'Powergiver',
   'admin.groups.navBank': 'Bank',
   'admin.groups.navGapContact': 'GCC',
+  'admin.groups.menuAddGroup': 'Create group',
 };
