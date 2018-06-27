@@ -29,4 +29,5 @@ export default {
   'admin.groups.navBank': 'Bankkonto',
   'admin.groups.navGapContact': 'Gap Contract',
   'admin.groups.menuAddGroup': 'Gruppe erstellen',
+  'admin.groups.modalHeaderAdd': 'Gruppe erstellen',
 };
