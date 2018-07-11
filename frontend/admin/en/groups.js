@@ -30,4 +30,5 @@ export default {
   'admin.groups.navGapContact': 'GCC',
   'admin.groups.menuAddGroup': 'Create group',
   'admin.groups.modalHeaderAdd': 'Create group',
+  'admin.groups.confirmDeleteGroup': 'Are you sure that you want to delete: {name}?',
 };
