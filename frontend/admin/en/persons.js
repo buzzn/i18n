@@ -4,6 +4,7 @@ export default {
   'admin.persons.email': 'Email',
   'admin.persons.lastLogin': 'Last login',
   'admin.persons.headerContact': 'Contact person',
+  'admin.persons.headerLegalRepresentation': 'Legal representation',
   'admin.persons.prefix': 'Prefix',
   'admin.persons.title': 'Title',
   'admin.persons.firstName': 'First name',
