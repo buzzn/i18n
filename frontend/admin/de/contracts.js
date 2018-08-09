@@ -71,4 +71,11 @@ export default {
   'admin.contracts.R': 'reduziert',
   'admin.contracts.N': 'keine',
   'admin.contracts.thirdPartyContractor': 'Drittbeliefert',
+  'admin.contracts.modalHeaderAdd': 'Neuen Vertrag erstellen',
+  'admin.contracts.navBills': 'Rechnungen',
+  'admin.contracts.navContracts': 'Verträge',
+  'admin.contracts.navBureaucracy': 'Bürokratie',
+  'admin.contracts.addNew': 'Neuen Vertrag erstellen',
+  'admin.contracts.modalHeaderUpload': '?? Upload document',
+  'admin.contracts.dropDocumentsHere': '?? Drop documents here',
 };

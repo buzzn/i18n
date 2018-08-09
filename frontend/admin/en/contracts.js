@@ -68,4 +68,11 @@ export default {
   'admin.contracts.R': 'reduced',
   'admin.contracts.N': 'null',
   'admin.contracts.thirdPartyContractor': 'Third party',
+  'admin.contracts.modalHeaderAdd': 'Add contract',
+  'admin.contracts.navBills': 'Bills',
+  'admin.contracts.navContracts': 'Contracts',
+  'admin.contracts.navBureaucracy': 'Bureaucracy',
+  'admin.contracts.addNew': 'Create contract',
+  'admin.contracts.modalHeaderUpload': 'Upload document',
+  'admin.contracts.dropDocumentsHere': 'Drop documents here',
 };

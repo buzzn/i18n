@@ -28,4 +28,5 @@ export default {
   'admin.groups.navPowergiver': 'Stromgeber',
   'admin.groups.navBank': 'Bankkonto',
   'admin.groups.navGapContact': 'Gap Contract',
+  'admin.groups.owner': '?? Group owner',
 };
