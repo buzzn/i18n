@@ -29,4 +29,7 @@ export default {
   'admin.groups.navBank': 'Bankkonto',
   'admin.groups.navGapContact': 'Gap Contract',
   'admin.groups.owner': '?? Group owner',
+  'admin.groups.menuAddGroup': 'Gruppe erstellen',
+  'admin.groups.modalHeaderAdd': 'Gruppe erstellen',
+  'admin.groups.confirmDeleteGroup': 'Möchtest Du die Gruppe {name} unwiderruflich löschen?',
 };

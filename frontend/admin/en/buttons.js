@@ -5,4 +5,5 @@ export default {
   'admin.buttons.submitAndGeneratePDF': 'Save and generate PDF',
   'admin.buttons.generatePDF': 'Generate PDF',
   'admin.buttons.buttonUploadDocument': 'Upload document',
+  'admin.buttons.delete': 'Delete',
 };
