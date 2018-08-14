@@ -78,4 +78,8 @@ export default {
   'admin.contracts.addNew': 'Neuen Vertrag erstellen',
   'admin.contracts.modalHeaderUpload': '?? Upload document',
   'admin.contracts.dropDocumentsHere': '?? Drop documents here',
+  'admin.contracts.createdAt': '?? Created',
+  'admin.contracts.updatedAt': '?? Updated',
+  'admin.contracts.taxNumber': '?? Tax number',
+  'admin.contracts.noGroupOwnerError': '?? Please, add the group owner',
 };
