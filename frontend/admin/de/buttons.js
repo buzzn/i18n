@@ -2,8 +2,8 @@ export default {
   'admin.buttons.submit': 'Fertig',
   'admin.buttons.save': 'Speichern',
   'admin.buttons.cancel': 'Abbrechen',
-  'admin.buttons.submitAndGeneratePDF': 'pleaseTranslate Save and PDF',
-  'admin.buttons.generatePDF': 'pleaseTranslate Generate PDF',
-  'admin.buttons.buttonUploadDocument': 'pleaseTranslate Upload document',
+  'admin.buttons.submitAndGeneratePDF': 'Speichern und PDF erzeugen',
+  'admin.buttons.generatePDF': 'PDF erzeugen',
+  'admin.buttons.buttonUploadDocument': 'Dokument hochladen',
   'admin.buttons.delete': 'löschen',
 };
