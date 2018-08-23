@@ -4,7 +4,7 @@ export default {
   'admin.persons.email': 'Email',
   'admin.persons.lastLogin': 'Letzter Login',
   'admin.persons.headerContact': 'Kontaktperson',
-  'admin.persons.headerLegalRepresentation': 'pleaseTranslate Legal representation',
+  'admin.persons.headerLegalRepresentation': 'Vertreter',
   'admin.persons.prefix': 'Anrede',
   'admin.persons.title': 'Titel',
   'admin.persons.firstName': 'Vorname',
