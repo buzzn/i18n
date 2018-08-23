@@ -81,5 +81,5 @@ export default {
   'admin.contracts.createdAt': 'Erzeugt',
   'admin.contracts.updatedAt': 'Aktualisiert',
   'admin.contracts.taxNumber': 'Steuernummer',
-  'admin.contracts.noGroupOwnerError': 'pleaseTranslate Please, add the group owner',
+  'admin.contracts.noGroupOwnerError': 'Bitte einen Stromgeber zuweisen',
 };
