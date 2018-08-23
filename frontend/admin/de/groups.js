@@ -28,7 +28,7 @@ export default {
   'admin.groups.navPowergiver': 'Stromgeber',
   'admin.groups.navBank': 'Bankkonto',
   'admin.groups.navGapContact': 'Gap Contract',
-  'admin.groups.owner': 'pleaseTranslate Group owner',
+  'admin.groups.owner': 'Stromgeber',
   'admin.groups.menuAddGroup': 'Gruppe erstellen',
   'admin.groups.modalHeaderAdd': 'Gruppe erstellen',
   'admin.groups.confirmDeleteGroup': 'Möchtest Du die Gruppe {name} unwiderruflich löschen?',
