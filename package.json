@@ -65,7 +65,7 @@
     "@babel/core": "^7.0.0-rc.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0-rc.2",
     "@babel/plugin-syntax-object-rest-spread": "^7.0.0-rc.2",
-    "@babel/preset-env": "^7.0.0-rc.2"
+    "@babel/preset-env": "^7.0.0-rc.2",
     "babel-eslint": "^8.0.2",
     "eslint": "^4.10.0",
     "eslint-config-airbnb": "^16.1.0",
