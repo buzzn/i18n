@@ -77,7 +77,7 @@ export default {
   'admin.contracts.navBureaucracy': 'Bürokratie',
   'admin.contracts.addNew': 'Neuen Vertrag erstellen',
   'admin.contracts.modalHeaderUpload': 'Dokument hochladen',
-  'admin.contracts.dropDocumentsHere': 'PDF hier hineinziehen',
+  'admin.contracts.dropDocumentsHere': 'Klicken oder PDF hier hineinziehen',
   'admin.contracts.createdAt': 'Erzeugt',
   'admin.contracts.updatedAt': 'Aktualisiert',
   'admin.contracts.taxNumber': 'Steuernummer',
