@@ -1,6 +1,6 @@
 export default {
-  'admin.breadcumbs.myGroups': 'My Groups',
-  'admin.breadcumbs.tariffs': 'Tariffs',
-  'admin.breadcumbs.billingCycles': 'Billing Cycles',
-  'admin.breadcumbs.devices': 'Devices',
+  'admin.breadcrumbs.myGroups': 'My Groups',
+  'admin.breadcrumbs.tariffs': 'Tariffs',
+  'admin.breadcrumbs.billingCycles': 'Billing Cycles',
+  'admin.breadcrumbs.devices': 'Devices',
 };

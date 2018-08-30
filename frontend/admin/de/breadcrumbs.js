@@ -1,6 +1,6 @@
 export default {
-  'admin.breadcumbs.myGroups': 'Gruppen',
-  'admin.breadcumbs.tariffs': 'Tarife',
-  'admin.breadcumbs.billingCycles': 'Turnusabrechnungen',
-  'admin.breadcumbs.devices': 'Zähler',
+  'admin.breadcrumbs.myGroups': 'Gruppen',
+  'admin.breadcrumbs.tariffs': 'Tarife',
+  'admin.breadcrumbs.billingCycles': 'Turnusabrechnungen',
+  'admin.breadcrumbs.devices': 'Zähler',
 };
