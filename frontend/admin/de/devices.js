@@ -32,4 +32,5 @@ export default {
   'admin.devices.kwkg': 'pleaseTranslate KWKG',
   'admin.devices.free': 'pleaseTranslate Free',
   'admin.devices.electricitySupplier.id': 'pleaseTranslate Electricity supplier',
+  'admin.devices.headerDeviceDetails': 'pleaseTranslate Device details',
 };
