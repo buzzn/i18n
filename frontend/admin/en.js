@@ -19,6 +19,7 @@ import billingCycles from './en/billing_cycles';
 import billings from './en/billings';
 import buttons from './en/buttons';
 import messages from './en/messages';
+import devices from './en/devices';
 
 export default {
   ...meters,
@@ -42,4 +43,5 @@ export default {
   ...billings,
   ...buttons,
   ...messages,
+  ...devices,
 };

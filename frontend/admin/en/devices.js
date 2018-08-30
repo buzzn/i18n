@@ -1,0 +1,17 @@
+export default {
+  'admin.devices.modalHeaderAdd': 'Add device',
+  'admin.devices.twoWayMeter': 'Two way meter',
+  'admin.devices.twoWayMeterUsed': 'Two way meter used',
+  'admin.devices.primaryEnergy': 'Primary energy',
+  'admin.devices.commisioning': 'Commisioning',
+  'admin.devices.law': 'Law',
+  'admin.devices.manufacturer': 'Manufacturer',
+  'admin.devices.kwPeak': 'kW peak',
+  'admin.devices.kwhPerAnnum': 'kWh per annum',
+  'admin.devices.addNew': 'Add new device',
+  'admin.devices.tablePrimaryEnergy': 'Primary energy',
+  'admin.devices.tableManufacturer': 'Manufacturer',
+  'admin.devices.tableStatus': 'Status',
+  'admin.devices.tableKwPeak': 'kW peak',
+  'admin.devices.tableCommisioning': 'Commisioning',
+};

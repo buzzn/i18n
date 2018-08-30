@@ -60,6 +60,10 @@
       }
     }
   },
+  "prettier": {
+    "singleQuote": true,
+    "trailingComma": "all"
+  },
   "devDependencies": {
     "@babel/cli": "^7.0.0-rc.2",
     "@babel/core": "^7.0.0-rc.2",
