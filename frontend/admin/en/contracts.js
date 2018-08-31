@@ -45,6 +45,7 @@ export default {
   'admin.contracts.active': 'Active',
   'admin.contracts.terminated': 'Terminated',
   'admin.contracts.ended': 'Ended',
+  'admin.contracts.signed': 'Signed',
   'admin.contracts.backPowertakers': 'Powertakers',
   'admin.contracts.navActivePowertakers': 'Active',
   'admin.contracts.navPastPowertakers': 'Ended',
