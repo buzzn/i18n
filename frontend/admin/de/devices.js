@@ -16,7 +16,7 @@ export default {
   'admin.devices.tableLaw': 'Gesetz',
   'admin.devices.tableCommissioning': 'Inbetriebnahme',
   'admin.devices.yes': 'Ja',
-  'admin.devices.planned': 'pleaseTranslate Planned',
+  'admin.devices.planned': 'in PLanung',
   'admin.devices.bio_mass': 'Biomasse',
   'admin.devices.bio_gas': 'Biogas',
   'admin.devices.natural_gas': 'Erdgas',
