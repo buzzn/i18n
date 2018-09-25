@@ -86,7 +86,7 @@ export default {
   'admin.contracts.taxNumber': 'Steuernummer',
   'admin.contracts.noGroupOwnerError': 'Bitte einen Stromgeber zuweisen',
   'admin.contracts.headerAddPowertaker': 'Stromnehmer hinzufügen',
-  'admin.contracts.originalSigningUser': 'pleaseTranslate Signing user',
+  'admin.contracts.originalSigningUser': 'Unterzeichner',
   'admin.contracts.mandateReference': 'Mandatsreferenz',
   'admin.contracts.confirmPricingModel': 'Preismodell bestätigen',
   'admin.contracts.powerOfAttorney': 'Vollmacht',
