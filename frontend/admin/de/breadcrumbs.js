@@ -3,6 +3,6 @@ export default {
   'admin.breadcrumbs.tariffs': 'Tarife',
   'admin.breadcrumbs.billingCycles': 'Turnusabrechnungen',
   'admin.breadcrumbs.devices': 'Geräte',
-  'admin.breadcrumbs.device': 'pleaseTranslate Device',
-  'admin.breadcrumbs.marketLocations': 'pleaseTranslate Market locations',
+  'admin.breadcrumbs.device': 'Gerät',
+  'admin.breadcrumbs.marketLocations': 'Zähler',
 };
