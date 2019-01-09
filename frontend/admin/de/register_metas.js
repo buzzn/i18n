@@ -1,6 +1,6 @@
 export default {
-  'admin.register_metas.name': 'pleaseTranslate Name',
-  'admin.register_metas.label': 'pleaseTranslate Label',
+  'admin.register_metas.name': 'Name',
+  'admin.register_metas.label': 'Beschreibung',
   'admin.register_metas.DEMARCATION_PV': 'PV Abgrenzung',
   'admin.register_metas.DEMARCATION_CHP': 'BHKW Abgrenzung',
   'admin.register_metas.DEMARCATION_WATER': 'Wasser Abgrenzung',
