@@ -20,6 +20,7 @@ import billings from './de/billings';
 import buttons from './de/buttons';
 import messages from './de/messages';
 import devices from './de/devices';
+import billing_items from './de/billing_items';
 
 export default {
   ...meters,
@@ -44,4 +45,5 @@ export default {
   ...buttons,
   ...messages,
   ...devices,
+  ...billing_items,
 };

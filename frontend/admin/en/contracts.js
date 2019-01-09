@@ -111,4 +111,6 @@ export default {
   'admin.contracts.GRID_CONSUMPTION_CORRECTED': 'Grid consumption corrected',
   'admin.contracts.GRID_FEEDING_CORRECTED': 'Grid feeding corrected',
   'admin.contracts.OTHER': 'Other',
+  'admin.contracts.navContract': 'Contract',
+  'admin.contracts.navBillings': 'Billings',
 };

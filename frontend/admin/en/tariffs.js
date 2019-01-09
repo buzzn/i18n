@@ -13,6 +13,8 @@ export default {
   'admin.tariffs.tableBeginDate': 'Start date',
   'admin.tariffs.tableEndDate': 'End date',
   'admin.tariffs.tableBasepriceCentsPerMonth': 'Base/month',
-  'admin.tariffs.tableEnergypriceCentsPerKwh': 'Base/kw',
+  'admin.tariffs.tableEnergypriceCentsPerKwh': 'Base/kwh',
   'admin.tariffs.numberOfContracts': 'Number of contracts',
+  'admin.tariffs.energypriceCentsPerKwh': 'Base/kwh',
+  'admin.tariffs.basepriceCentsPerMonth': 'Base/month',
 };

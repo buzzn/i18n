@@ -15,4 +15,6 @@ export default {
   'admin.tariffs.tableBasepriceCentsPerMonth': 'Grundpreis/Monat',
   'admin.tariffs.tableEnergypriceCentsPerKwh': 'Arbeitspreis/kWh',
   'admin.tariffs.numberOfContracts': 'Verträge',
+  'admin.tariffs.energypriceCentsPerKwh': 'Arbeitspreis/kWh',
+  'admin.tariffs.basepriceCentsPerMonth': 'Grundpreis/Monat',
 };
