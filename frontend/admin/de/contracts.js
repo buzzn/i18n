@@ -115,8 +115,8 @@ export default {
   'admin.contracts.GRID_CONSUMPTION_CORRECTED': 'Netzbezug korrigiert',
   'admin.contracts.GRID_FEEDING_CORRECTED': 'Netzeinspeisung korrigiert',
   'admin.contracts.OTHER': 'Sonstige',
-  'admin.contracts.navContract': 'pleaseTranslate Contract',
-  'admin.contracts.navBillings': 'pleaseTranslate Billings',
-  'admin.contracts.tableLastDate': 'pleaseTranslate Last Date',
-  'admin.contracts.manageTariffs': 'pleaseTranslate Manage tariffs',
+  'admin.contracts.navContract': 'Vertrag',
+  'admin.contracts.navBillings': 'Rechnungen',
+  'admin.contracts.tableLastDate': 'Enddatum',
+  'admin.contracts.manageTariffs': 'Tarife managen',
 };
