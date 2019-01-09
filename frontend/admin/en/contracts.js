@@ -113,4 +113,6 @@ export default {
   'admin.contracts.OTHER': 'Other',
   'admin.contracts.navContract': 'Contract',
   'admin.contracts.navBillings': 'Billings',
+  'admin.contracts.tableLastDate': 'Last Date',
+  'admin.contracts.manageTariffs': 'Manage tariffs',
 };

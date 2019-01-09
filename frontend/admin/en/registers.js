@@ -50,4 +50,5 @@ export default {
   'admin.registers.navDetails': 'Details',
   'admin.registers.tableObis': 'OBIS',
   'admin.registers.tableKind': 'Kind',
+  'admin.registers.marketLocationId': 'MaLo ID',
 };

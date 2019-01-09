@@ -117,4 +117,6 @@ export default {
   'admin.contracts.OTHER': 'Sonstige',
   'admin.contracts.navContract': 'pleaseTranslate Contract',
   'admin.contracts.navBillings': 'pleaseTranslate Billings',
+  'admin.contracts.tableLastDate': 'pleaseTranslate Last Date',
+  'admin.contracts.manageTariffs': 'pleaseTranslate Manage tariffs',
 };

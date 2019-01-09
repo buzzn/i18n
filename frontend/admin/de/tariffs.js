@@ -17,4 +17,6 @@ export default {
   'admin.tariffs.numberOfContracts': 'Verträge',
   'admin.tariffs.energypriceCentsPerKwh': 'Arbeitspreis/kWh',
   'admin.tariffs.basepriceCentsPerMonth': 'Grundpreis/Monat',
+  'admin.tariffs.addNew': 'pleaseTranslateAdd new tariff',
+  'admin.tariffs.modalHeaderAdd': 'pleaseTranslate Add new tariff',
 };

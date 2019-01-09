@@ -41,4 +41,6 @@ export default {
   'admin.readings.tableDate': 'Datum',
   'admin.readings.tableValue': 'Messwert',
   'admin.readings.tableReason': 'Ablesegrund',
+  'admin.readings.addNew': 'pleaseTranslate Add new reading',
+  'admin.readings.modalHeaderAdd': 'pleaseTranslate Add new reading',
 };

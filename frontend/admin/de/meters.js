@@ -73,4 +73,11 @@ export default {
   'admin.meters.standard_profile': 'Standardlastprofil',
   'admin.meters.sequenceNumber': 'Laufende Nummer',
   'admin.meters.headerEdifactInformation': 'EDIFACT',
+  'admin.meters.addNew': 'pleaseTranslate Add new meter',
+  'admin.registers.marketLocationId': 'pleaseTranslate MaLo ID',
+  'admin.meters.meteringLocationId': 'pleaseTranslate MeLo ID',
+  'admin.meters.real': 'pleaseTranslate real',
+  'admin.meters.virtual': 'pleaseTranslate virtual',
+  'admin.meters.datasource': 'pleaseTranslate Data source',
+  'admin.meters.BUZZN': 'BUZZN',
 };

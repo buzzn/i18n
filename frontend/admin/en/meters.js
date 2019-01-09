@@ -73,4 +73,10 @@ export default {
   'admin.meters.standard_profile': 'Standard profile',
   'admin.meters.sequenceNumber': 'Sequence number',
   'admin.meters.headerEdifactInformation': 'Edifact information',
+  'admin.meters.addNew': 'Add new meter',
+  'admin.meters.meteringLocationId': 'MeLo ID',
+  'admin.meters.real': 'real',
+  'admin.meters.virtual': 'virtual',
+  'admin.meters.datasource': 'Data source',
+  'admin.meters.BUZZN': 'BUZZN',
 };

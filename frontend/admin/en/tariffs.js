@@ -17,4 +17,6 @@ export default {
   'admin.tariffs.numberOfContracts': 'Number of contracts',
   'admin.tariffs.energypriceCentsPerKwh': 'Base/kwh',
   'admin.tariffs.basepriceCentsPerMonth': 'Base/month',
+  'admin.tariffs.addNew': 'Add new tariff',
+  'admin.tariffs.modalHeaderAdd': 'Add new tariff',
 };
