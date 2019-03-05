@@ -120,4 +120,5 @@ export default {
   'admin.contracts.navBillings': 'Rechnungen',
   'admin.contracts.tableLastDate': 'Enddatum',
   'admin.contracts.manageTariffs': 'Tarife managen',
+  'admin.contracts.attachedTariffs': 'Tarife des Vertrags (netto)',
 };
