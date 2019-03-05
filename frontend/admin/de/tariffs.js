@@ -12,6 +12,7 @@ export default {
   'admin.tariffs.tableName': 'Name',
   'admin.tariffs.tableBeginDate': 'Starttermin',
   'admin.tariffs.tableEndDate': 'Endtermin',
+  'admin.tariffs.tableLastDate': 'Enddatum',
   'admin.tariffs.tableBasepriceCentsPerMonth': 'Grundpreis/Monat',
   'admin.tariffs.tableEnergypriceCentsPerKwh': 'Arbeitspreis/kWh',
   'admin.tariffs.numberOfContracts': 'Verträge',
