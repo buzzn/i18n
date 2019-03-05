@@ -33,4 +33,5 @@ export default {
   'admin.billings.settled': 'Abgewickelt',
   'admin.billings.closed': 'Geschlossen',
   'admin.billings.headerBillingItems': 'Rechnungsobjekte',
+  'admin.billings.contractBillings': 'Rechnungen',
 };
