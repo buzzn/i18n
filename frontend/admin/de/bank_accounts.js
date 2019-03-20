@@ -8,4 +8,5 @@ export default {
   'admin.bankAccounts.iban': 'IBAN',
   'admin.bankAccounts.bankName': 'pleaseTranslate Bank name',
   'admin.bankAccounts.directDebit': 'pleaseTranslate Direct debit',
+  'admin.bankAccounts.modalHeaderAdd': 'pleaseTranslate Create bank account',
 };
