@@ -9,4 +9,10 @@ export default {
   'admin.bankAccounts.bankName': 'pleaseTranslate Bank name',
   'admin.bankAccounts.directDebit': 'pleaseTranslate Direct debit',
   'admin.bankAccounts.modalHeaderAdd': 'pleaseTranslate Create bank account',
+  'admin.bankAccounts.headerBankAccounts': 'Bank accounts',
+  'admin.bankAccounts.addNew': 'Create bank account',
+  'admin.bankAccounts.tableHolder': 'Holder',
+  'admin.bankAccounts.tableBic': 'BIC',
+  'admin.bankAccounts.tableIban': 'IBAN',
+  'admin.bankAccounts.tableDirectDebit': 'Direc Debit',
 };
