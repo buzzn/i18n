@@ -1,0 +1,15 @@
+export default {
+  'admin.reports.header': 'Berichte und Datenaustausch',
+  'admin.reports.annual': 'Berichte und Datenaustausch',
+  'admin.reports.tabs.annual': 'Jahresbericht',
+  'admin.reports.annual.Start': 'Anfang',
+  'admin.reports.annual.End': 'Ende',
+  'admin.reports.annual.Submit': 'Bericht erstellen',
+  'admin.reports.tabs.eeg': 'Eeg',
+  'admin.reports.eeg.Start': 'Anfang',
+  'admin.reports.eeg.End': 'Ende',
+  'admin.reports.eeg.Submit': 'Bericht erstellen',
+  'admin.reports.tabs.groupsMembersExport': 'Gruppenmitglieder-Export',
+  'admin.reports.groupsMembersExport.Text': 'Exportiert alle Mitgleider dieser Gruppe als dtfv/csv Datei.',
+  'admin.reports.groupsMembersExport.Submit': 'Export',
+}

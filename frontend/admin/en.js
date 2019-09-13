@@ -22,6 +22,7 @@ import messages from './en/messages';
 import devices from './en/devices';
 import billing_items from './en/billing_items';
 import register_metas from './en/register_metas';
+import reports from './de/reports';
 
 export default {
   ...meters,
@@ -48,4 +49,5 @@ export default {
   ...devices,
   ...billing_items,
   ...register_metas,
+  ...reports,
 };
