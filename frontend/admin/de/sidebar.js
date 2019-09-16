@@ -10,4 +10,5 @@ export default {
   'admin.sidebar.documents': 'Unterlagen',
   'admin.sidebar.settings': 'Einstellungen',
   'admin.sidebar.devices': 'Geräte',
+  'admin.sidebar.reports': 'Berichte',
 };

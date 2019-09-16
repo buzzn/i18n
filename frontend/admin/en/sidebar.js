@@ -10,4 +10,5 @@ export default {
   'admin.sidebar.documents': 'Documents',
   'admin.sidebar.settings': 'Settings',
   'admin.sidebar.devices': 'Devices',
+  'admin.sidebar.reports': 'Reports',
 };
