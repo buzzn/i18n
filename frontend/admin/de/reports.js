@@ -10,6 +10,6 @@ export default {
   'admin.reports.eeg.End': 'Ende',
   'admin.reports.eeg.Submit': 'Bericht erstellen',
   'admin.reports.tabs.groupsMembersExport': 'Gruppenmitglieder-Export',
-  'admin.reports.groupsMembersExport.Text': 'Exportiert alle Mitgleider dieser Gruppe als dtfv/csv Datei.',
+  'admin.reports.groupsMembersExport.Text': 'Exportiert alle Mitgleider dieser Gruppe als DATEV/CSV-Datei.',
   'admin.reports.groupsMembersExport.Submit': 'Export',
 }
