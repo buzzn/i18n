@@ -50,5 +50,6 @@ export default {
   'admin.registers.navDevices': 'Geräte',
   'admin.registers.navDetails': 'Details',
   'admin.registers.tableObis': 'OBIS',
+  'admin.registers.noObis': 'Keine OBIS hinterlegt',
   'admin.registers.tableKind': 'Art',
 };

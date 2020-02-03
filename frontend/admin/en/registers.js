@@ -49,6 +49,7 @@ export default {
   'admin.registers.navDevices': 'Devices',
   'admin.registers.navDetails': 'Details',
   'admin.registers.tableObis': 'OBIS',
+  'admin.registers.noObis': 'No OBIS available',
   'admin.registers.tableKind': 'Kind',
   'admin.registers.marketLocationId': 'MaLo ID',
 };
