@@ -79,4 +79,5 @@ export default {
   'admin.meters.virtual': 'virtual',
   'admin.meters.datasource': 'Data source',
   'admin.meters.BUZZN': 'BUZZN',
+  'admin.meters.updateDiscovergyMeter': 'Update Discovergy Meter',
 };

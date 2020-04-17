@@ -80,4 +80,5 @@ export default {
   'admin.meters.virtual': 'Virtuell',
   'admin.meters.datasource': 'Datenquelle',
   'admin.meters.BUZZN': 'BUZZN',
+  'admin.meters.updateDiscovergyMeter': 'Update Discovergy Zähler',
 };

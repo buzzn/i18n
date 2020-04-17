@@ -4,6 +4,7 @@ export default {
   'admin.marketLocations.navSystem': 'Systemzähler',
   'admin.marketLocations.navContracts': 'Verträge',
   'admin.marketLocations.navRegisters': 'Zählwerke',
+  'admin.marketLocations.navAllMeters': 'Alle Zähler',
   'admin.marketLocations.tableName': 'Name',
   'admin.marketLocations.name': 'Bezugsstelle',
   'admin.marketLocations.thirdPartyId': 'MaLo ID',
