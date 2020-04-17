@@ -14,7 +14,7 @@ export default {
   'admin.tariffs.tableEndDate': 'Endtermin',
   'admin.tariffs.tableLastDate': 'Enddatum',
   'admin.tariffs.tableBasepriceCentsPerMonth': 'netto Grundpreis/Monat',
-  'admin.tariffs.tableEnergypriceCentsPerKwh': 'netto Arbeitspreis/kWh',
+  'admin.tariffs.tableEnergypriceCentsPerKwh': 'netto Arbeitspreis in Cent / kWh',
   'admin.tariffs.numberOfContracts': 'Verträge',
   'admin.tariffs.energypriceCentsPerKwh': 'Arbeitspreis/kWh',
   'admin.tariffs.basepriceCentsPerMonth': 'Grundpreis/Monat',
