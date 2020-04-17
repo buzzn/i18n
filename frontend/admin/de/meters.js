@@ -81,4 +81,5 @@ export default {
   'admin.meters.datasource': 'Datenquelle',
   'admin.meters.BUZZN': 'BUZZN',
   'admin.meters.updateDiscovergyMeter': 'Update Discovergy Zähler',
+  'admin.meters.tableRegisters': 'Register',
 };
