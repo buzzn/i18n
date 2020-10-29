@@ -22,4 +22,11 @@ export default {
   'admin.persons.navPillAccount': 'Benutzerkonto',
   'admin.persons.navPillBank': 'Bankkonten',
   'admin.persons.customerNumber': 'Kundennummer',
+  'admin.persons.emailActive': 'Aktiv',
+  'admin.persons.emailBackendHost': 'Host',
+  'admin.persons.emailBackendPort': 'Port',
+  'admin.persons.emailBackendUser': 'Nutzername',
+  'admin.persons.emailBackendEncryption': 'Verschlüsselung',
+  'admin.persons.emailBackendPassword': 'Passwort',
+  'admin.persons.emailSendTestMail': 'Testmail senden'
 };
