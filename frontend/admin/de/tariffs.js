@@ -20,4 +20,6 @@ export default {
   'admin.tariffs.basepriceCentsPerMonth': 'Grundpreis/Monat',
   'admin.tariffs.addNew': 'Tarif hinzufügen',
   'admin.tariffs.modalHeaderAdd': 'Tarif hinzufügen',
+  'admin.tariffs.generateTariffChangeLetter': 'Tarifanpassungsschreiben generieren',
+  'admin.tariffs.sindTariffChangeLetter': 'Tarifanpassungsschreiben versenden'
 };
