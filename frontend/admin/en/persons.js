@@ -22,12 +22,11 @@ export default {
   'admin.persons.navPillAccount': 'Account',
   'admin.persons.navPillBank': 'Bank Accounts',
   'admin.persons.customerNumber': 'Customer number',
-  'admin.persons.emailBackendHost': 'SMTP Host',
-  'admin.persons.emailBackendEncryption': 'TLS/SSL',
+  'admin.persons.emailActive': 'Activ',
+  'admin.persons.emailBackendHost': 'Host',
   'admin.persons.emailBackendPort': 'Port',
   'admin.persons.emailBackendUser': 'User',
+  'admin.persons.emailBackendEncryption': 'Encryption',
   'admin.persons.emailBackendPassword': 'Password',
-  'admin.persons.emailBackendActive': 'Use email settings',
-  'admin.persons.emailBackendSendTestmail': 'Send test email'
-
+  'admin.persons.emailSendTestMail': 'Send testmail'
 };
