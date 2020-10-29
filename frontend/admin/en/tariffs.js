@@ -20,5 +20,5 @@ export default {
   'admin.tariffs.addNew': 'Add new tariff',
   'admin.tariffs.modalHeaderAdd': 'Add new tariff',
   'admin.tariffs.generateTariffChangeLetter': 'Generate Tariff Change Letter',
-  'admin.tariffs.sindTariffChangeLetter': 'Send Tariff Change Letter'
+  'admin.tariffs.sendTariffChangeLetter': 'Send Tariff Change Letter'
 };
