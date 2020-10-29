@@ -28,5 +28,6 @@ export default {
   'admin.persons.emailBackendUser': 'User',
   'admin.persons.emailBackendEncryption': 'Encryption',
   'admin.persons.emailBackendPassword': 'Password',
-  'admin.persons.emailSendTestMail': 'Send testmail'
+  'admin.persons.emailSendTestMail': 'Send testmail',
+  'admin.persons.mailSettings': 'Mail Settings'
 };
