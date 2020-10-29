@@ -32,4 +32,6 @@ export default {
   'admin.groups.menuAddGroup': 'Gruppe erstellen',
   'admin.groups.modalHeaderAdd': 'Gruppe erstellen',
   'admin.groups.confirmDeleteGroup': 'Möchtest Du die Gruppe {name} unwiderruflich löschen?',
+  'admin.groups.navFakeStats': 'Energiekennzeichnung',
+  'admin.groups.navComments': 'Kommentare'
 };

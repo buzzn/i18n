@@ -23,6 +23,7 @@ import devices from './de/devices';
 import billing_items from './de/billing_items';
 import register_metas from './de/register_metas';
 import reports from './de/reports';
+import comments from './de/comments';
 
 export default {
   ...meters,
@@ -50,4 +51,5 @@ export default {
   ...billing_items,
   ...register_metas,
   ...reports,
+  ...comments
 };

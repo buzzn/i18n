@@ -43,4 +43,5 @@ export default {
   'admin.readings.tableReason': 'Ablesegrund',
   'admin.readings.addNew': 'Messwert hinzufügen',
   'admin.readings.modalHeaderAdd': 'Messwert hinzufügen',
+  'admin.readings.calculateReading': 'Messwert generieren'
 };

@@ -121,4 +121,12 @@ export default {
   'admin.contracts.tableLastDate': 'Enddatum',
   'admin.contracts.manageTariffs': 'Tarife managen',
   'admin.contracts.attachedTariffs': 'Tarife des Vertrags (netto)',
+  'admin.contracts.navPayments': 'Bezahlung',
+
+  'admin.contracts.addNewThirdParty': 'Drittanbieter hinzufügen',
+  'admin.contracts.headerAddThirdParty': 'Drittanbieter hinzufügen',
+  'admin.contracts.name': 'Name',
+  'admin.contracts.label': 'Label',
+  'admin.contracts.tableDocuments': 'Dokumente',
+
 };

@@ -43,4 +43,5 @@ export default {
   'admin.readings.tableReason': 'Reason',
   'admin.readings.addNew': 'Add new reading',
   'admin.readings.modalHeaderAdd': 'Add new reading',
+  'admin.readings.calculateReading': 'Calculate reading'
 };

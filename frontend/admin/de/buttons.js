@@ -6,4 +6,5 @@ export default {
   'admin.buttons.generatePDF': 'PDF erzeugen',
   'admin.buttons.buttonUploadDocument': 'Dokument hochladen',
   'admin.buttons.delete': 'löschen',
+  'admin.buttons.requestReading': 'Messwert anfragen',
 };

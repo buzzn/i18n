@@ -115,4 +115,10 @@ export default {
   'admin.contracts.navBillings': 'Billings',
   'admin.contracts.tableLastDate': 'Last Date',
   'admin.contracts.manageTariffs': 'Manage tariffs',
+  'admin.contracts.navPayments': 'Payments',
+  'admin.contracts.addNewThirdParty': 'Add new third party',
+  'admin.contracts.headerAddThirdParty': 'New thrid party',
+  'admin.contracts.name': 'Name',
+  'admin.contracts.label': 'Label',
+  'admin.contracts.tableDocuments': 'Documents',
 };
