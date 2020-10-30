@@ -29,5 +29,8 @@ export default {
   'admin.persons.emailBackendEncryption': 'Encryption',
   'admin.persons.emailBackendPassword': 'Password',
   'admin.persons.emailSendTestMail': 'Send testmail',
-  'admin.persons.mailSettings': 'Mail Settings'
+  'admin.persons.mailSettings': 'Mail Settings',
+  'admin.persons.none': 'NONE',
+  'admin.persons.ssltls': 'SSL/TLS',
+  'admin.persons.starttls': 'STARTTLS'
 };
