@@ -6,7 +6,7 @@
   "author": "ChipJuggler <scsi.rdx@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "postinstall": "npx babel frontend/ -d dist/"
+    "postinstall": "npx babel frontend/ --out-dir dist/"
   },
   "eslintConfig": {
     "parser": "babel-eslint",
