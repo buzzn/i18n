@@ -30,6 +30,7 @@ export default {
   'admin.groups.navGapContact': 'GCC',
   'admin.groups.owner': 'Group owner',
   'admin.groups.menuAddGroup': 'Create group',
+  'admin.groups.menuDownloadMeterReport': 'Download Meter Report',
   'admin.groups.modalHeaderAdd': 'Create group',
   'admin.groups.confirmDeleteGroup': 'Are you sure that you want to delete: {name}?',
   'admin.groups.navFakeStats': 'Energy labelling',

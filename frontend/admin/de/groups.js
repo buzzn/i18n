@@ -30,6 +30,7 @@ export default {
   'admin.groups.navGapContact': 'Gap Contract',
   'admin.groups.owner': 'Stromgeber',
   'admin.groups.menuAddGroup': 'Gruppe erstellen',
+  'admin.groups.menuDownloadMeterReport': 'Download Zähler Report',
   'admin.groups.modalHeaderAdd': 'Gruppe erstellen',
   'admin.groups.confirmDeleteGroup': 'Möchtest Du die Gruppe {name} unwiderruflich löschen?',
   'admin.groups.navFakeStats': 'Energiekennzeichnung',
